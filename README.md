@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Ayesha Quddus
 
-<!--
-**Ayesha-Quddus/Ayesha-Quddus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **hardware engineer** passionate about **processor architectures, FPGA designs, and embedded computing**.  
+I enjoy creating high-performance RISC-V cores and building practical solutions that bridge hardware and software.
 
-Here are some ideas to get you started:
+🎓 Currently pursuing an **Erasmus Mundus Joint Master’s in Embedded Computing Systems (EMECS)**, I work on projects ranging from **digital design** to **embedded systems and IoT applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+🧩 **Hardware Description Languages:** `SystemVerilog`, `Verilog`, `VHDL`, `Chisel`  
+
+⚙️ **FPGA & Design Tools:** `Vivado Design Suite`, `ModelSim`, `XSim`, `OneSpin`  
+
+🔧 **Embedded Systems & IoT:** `FPGA`, `Raspberry Pi`, `Jetson AGX Xavier`, `STM32`, `Arduino`
+
+🔌 **Circuit Simulation & Design:** `LTspice`, `Multisim`, `Proteus`, `MATLAB`    
+
+💻 **Programming:** `Python`, `C++`, `C`, `RISC-V Assembly`, `Dart`   
+
+🧰 **Data & ML Tools:** `TensorFlow`, `Tableau`, `Power BI`, `Looker Studio`, `Google Apps Script`
+
+---
+
+### 🚀 Interests
+Passionate about tackling real-world engineering problems, including:  
+- Pipelined processor design and verification  
+- Hardware acceleration techniques  
+- Embedded system development for applied projects 
+
+---
+
+### 🌐 Connect with me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-quddus)  
+- 📧 [Email](mailto:aq1g25@soton.ac.uk)
+
+---
+
+⭐️ “Bringing processors and platforms to life.”
