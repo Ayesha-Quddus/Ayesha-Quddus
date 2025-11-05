@@ -11,7 +11,7 @@ I enjoy creating high-performance RISC-V cores and building practical solutions 
 
 🧩 **Hardware Description Languages:** `SystemVerilog`, `Verilog`, `VHDL`, `Chisel`  
 
-⚙️ **FPGA & Design Tools:** `Vivado Design Suite`, `ModelSim`, `XSim`, `OneSpin`  
+⚙️ **FPGA & Design Tools:** `Vivado Design Suite`, `ModelSim`, `Quartus`, `XSim`, `OneSpin`  
 
 🔧 **Embedded Systems & IoT:** `FPGA`, `Raspberry Pi`, `Jetson AGX Xavier`, `STM32`, `Arduino`
 
